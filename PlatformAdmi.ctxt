@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlatformAdmi
+comment1.params=
+comment1.target=PlatformAdmi()
+comment2.params=id\ pass
+comment2.target=PlatformAdmi(int,\ java.lang.String)
+comment3.params=id\ pass
+comment3.target=void\ setPlatformAdmi(int,\ java.lang.String)
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=java.lang.String\ getPass()
+numComments=6

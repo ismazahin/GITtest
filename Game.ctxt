@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment10.params=GameTyp
+comment10.target=void\ setGameTyp(java.lang.String)
+comment11.params=GamePri
+comment11.target=void\ setGamePri(double)
+comment12.params=GameD
+comment12.target=void\ setGameD(java.lang.String)
+comment2.params=GameC\ GameN\ GameTyp\ GamePri\ GameD
+comment2.target=Game(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getGameC()
+comment4.params=
+comment4.target=java.lang.String\ getGameN()
+comment5.params=
+comment5.target=java.lang.String\ getGameTyp()
+comment6.params=
+comment6.target=double\ getGamePri()
+comment7.params=
+comment7.target=java.lang.String\ getGameD()
+comment8.params=GameC
+comment8.target=void\ setGameC(java.lang.String)
+comment9.params=GameN
+comment9.target=void\ setGameN(java.lang.String)
+numComments=13

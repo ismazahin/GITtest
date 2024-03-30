@@ -1,0 +1,34 @@
+F128;Pergi Dalam;RPG;0.0;UK616;Bloober Team
+F129;Penyelamat Bandar;RPG;0.0;UK616;UbiSoft
+F130;Boss Titan;RPG;0.0;UK616;Devolver Digital
+F111;Medan Tempur 2042;FPS;0.0;UK616;UbiLembut
+F112;Lembah Stardew;Simulation;0.0;UK616;ConcernedApe
+F113;Ahli Sihir 3;RPG;0.0;UK616;CD Projekt RED
+F114;Korek dan Bina;RPG;0.0;UK616;Mojang Studios
+F115;Kereta Kecurian Besar 5;RPG;0.0;UK616;Rockstar North
+F116;Terlebih Lihat;FPS;0.0;UK616;Blizzard Entertainment
+F117;Haiwan Melintas;Simulation;0.0;UK616;Nintendo
+F118;Panggilan Tugas;FPS;0.0;UK616;Infinity Ward
+F119;Dikalangan Kita;RPG;0.0;UK616;InnerSloth
+F120;Lagenda Zelda;RPG;0.0;UK616;Nintendo
+F121;Kubu Tidur;FPS;0.0;UK616;Epic Games
+F122;Liga Para Lagenda;RPG;0.0;UK616;Riot Games
+F123;Akidah Pembunuh Valhalla;RPG;0.0;UK616;Ubisoft
+F124;Fantasi Terakhir VII;RPG;0.0;UK616;Square Enix
+F125;Desa Penduduk Jahat;FPS;0.0;UK616;Capcom
+P112;Kelebihan Kehidupan ;RPG;79.99;UK616;Square Enix 
+P113;Lompatan Tinggi ;RPG;29.99;UK616;Team Cherry 
+P114;Raja Lautan ;Simulation;55.5;UK616;Paradox Interactive 
+P115;Perburuan Hantu ;RPG;39.9;UK616;Red Barrels 
+P116;Penunggang Kuda ;RPG;69.99;UK616;Codemasters 
+P117;Simulasi Mahasiswa;Simulation;49.95;UK616;Electronic Arts 
+P118;Penjaga Kehidupan ;RPG;79.99;UK616;Sony Interactive Entertainment 
+P119;Pergi Hijau ;Simulation ;19.99;UK616;Playdead 
+P120;Pencarian Harta ;RPG;59.9;UK616;Avalanche Studios 
+P121;Juru Gada ;FPS;69.99;UK616;IO Interactive 
+P122;Planet Tidur ;FPS;14.99;UK616;Team17 
+P123;Pahlawan Kehilangan ;RPG;49.95;UK616;CD Projekt RED 
+P124;Arena Pertempuran ;RPG;59.99;UK616;Bandai Namco Entertainment 
+P125;Petualangan Luar Angkasa ;Simulation;39.9;UK616;Double Fine Productions 
+P126;Penembak Jitu ;FPS;29.99;UK616;CI Games 
+P127;Dunia Terbuka ;RPG;69.99;UK616;Rockstar Games 
